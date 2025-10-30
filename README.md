@@ -62,5 +62,6 @@ The Power BI dashboard enables the organization to:
 - **Excel / CSV / Database Sources** – Data input for complaints  
 - **DAX (Data Analysis Expressions)** – KPI and measure calculations  
 - **Power Query** – Data transformation and cleaning  
+<img width="1487" height="867" alt="image" src="https://github.com/user-attachments/assets/d1f9be14-57f8-4058-a0c5-4d6c075f6357" />
 
 
